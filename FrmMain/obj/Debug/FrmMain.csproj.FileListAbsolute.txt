@@ -1,0 +1,109 @@
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\FrmMain.exe.config
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\FrmMain.exe
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\FrmMain.pdb
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.csprojAssemblyReference.cache
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.Form1.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmDMChatLieu.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.csproj.GenerateResource.cache
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.csproj.CoreCompileInputs.cache
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.exe
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.pdb
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmDMNhanVien.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmDMKhachHang.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmDMHangHoa.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmHoaDonBan.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.csproj.ResolveComReference.cache
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\EnvDTE.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\stdole.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\Microsoft.MSXML.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.csproj.CopyComplete
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmHangTon.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\RdlCompile.cache
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\RdlCompile.compiled
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmReportHD.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmTimKiemHD.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.frmDangNhap.resources
+C:\Users\You\source\repos\FrmMain\FrmMain\obj\Debug\FrmMain.TìmHangf.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\FrmMain.exe.config
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\FrmMain.exe
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\FrmMain.pdb
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\stdole.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.Form1.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmDangNhap.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmDMNhanVien.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmHoaDonBan.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmReportHD.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmTimKiemHD.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.exe
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.pdb
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmDMNguyenLieu.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmDMMonAnHoa.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmDMKhachMonAn.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.frmMonAnTon.resources
+C:\Users\ADMIN\Downloads\New folder (2)\QuanLyBanDoAn2\FrmMain\obj\Debug\FrmMain.TìmMonAnf.resources

@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8591C513-1A45-48C4-8B95-977426244971}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FrmMain</RootNamespace>
+    <AssemblyName>FrmMain</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\Desktop\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.Design">
+      <HintPath>..\..\DeThi01\DeThi01\bin\Debug\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms">
+      <HintPath>..\..\WindowsFormsApp13\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDMNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMNguyenLieu.Designer.cs">
+      <DependentUpon>frmDMNguyenLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDMMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMMonAn.Designer.cs">
+      <DependentUpon>frmDMMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDMKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMKhachHang.Designer.cs">
+      <DependentUpon>frmDMKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDMNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDMNhanVien.Designer.cs">
+      <DependentUpon>frmDMNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNguyenLieuTon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNguyenLieuTon.Designer.cs">
+      <DependentUpon>frmNguyenLieuTon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoaDonBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoaDonBan.Designer.cs">
+      <DependentUpon>frmHoaDonBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportHD.Designer.cs">
+      <DependentUpon>frmReportHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimKiemHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimKiemHD.Designer.cs">
+      <DependentUpon>frmTimKiemHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLBanHangClasses.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLBanHangClasses.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyBanHangLNDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyBanHangLNDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyBanDoAnDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyBanDoAnDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TìmHangf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TìmHangf.Designer.cs">
+      <DependentUpon>TìmHangf.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMNguyenLieu.resx">
+      <DependentUpon>frmDMNguyenLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMMonAn.resx">
+      <DependentUpon>frmDMMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMKhachHang.resx">
+      <DependentUpon>frmDMKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDMNhanVien.resx">
+      <DependentUpon>frmDMNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNguyenLieuTon.resx">
+      <DependentUpon>frmNguyenLieuTon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoaDonBan.resx">
+      <DependentUpon>frmHoaDonBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportHD.resx">
+      <DependentUpon>frmReportHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimKiemHD.resx">
+      <DependentUpon>frmTimKiemHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="ReportTimKiemHD.rdlc" />
+    <EmbeddedResource Include="TìmHangf.resx">
+      <DependentUpon>TìmHangf.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="QLBanHangClasses.dbml.layout">
+      <DependentUpon>QLBanHangClasses.dbml</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QLBanHangClasses.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>QLBanHangClasses.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyBanHangLNDataSet.xsc">
+      <DependentUpon>QuanLyBanHangLNDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyBanHangLNDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyBanHangLNDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyBanHangLNDataSet.xss">
+      <DependentUpon>QuanLyBanHangLNDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyBanDoAnDataSet1.xsc">
+      <DependentUpon>QuanLyBanDoAnDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyBanDoAnDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyBanDoAnDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyBanDoAnDataSet1.xss">
+      <DependentUpon>QuanLyBanDoAnDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\CONG1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\symbol_add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erase.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %282%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-50 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_add_126583.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126583-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126583-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126583-24 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126583-24 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\186389-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126582-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126582-241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\352084-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\352084-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5416293-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\211650-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\211889-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4600108684977dc92486.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4600108684977dc924861.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493293-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111124-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_search_126577.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
